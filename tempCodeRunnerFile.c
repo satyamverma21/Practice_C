@@ -1,3 +1,3 @@
-#include<stdio.h>
-int main()
-{printf("%d",78&88);}
+
+            printf("%d ",a);
+            printf("%d \n",i);
